@@ -1,0 +1,20 @@
+{
+  "name": "demo_slide4",
+  "version": "1.0.0",
+  "description": "ghi gi cung duoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "LongDao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "express-handlebars": "^5.2.1"
+  }
+}
