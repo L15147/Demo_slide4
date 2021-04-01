@@ -4,7 +4,7 @@
   "description": "ghi gi cung duoc",
   "main": "index.js",
   "scripts": {
-    "test": "node index"
+    "start": "index.js"
   },
   "keywords": [
     "abc"
